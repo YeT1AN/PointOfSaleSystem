@@ -1,0 +1,9 @@
+/*
+Ye Tian
+ytian62@myseneca.ca
+142003227
+15 APR 2023
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+I encountered two troubles in completing MS5 they were: 1. In addItem(), at first I could not print the new additions, after a million reflections and attempts I finally found out that the reason was noOfItem++; was missing. 2. With no guidance in removeItem(), it became challenging, after a short thought I still got the program to to work perfectly.

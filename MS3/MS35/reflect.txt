@@ -1,0 +1,11 @@
+/*
+Ye Tian
+ytian62@myseneca.ca
+142003227
+10 APR 2023
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+//MS35 is completed with Version 2
+
+MS3 was generally a little more difficult than the previous one, but after being split into five sections it felt easier. The most challenging part I think is MS5, as it is very easy to get things wrong when you have to pass addresses through pointers so often. For example, when I passed an incorrect address through a pointer to another address, this resulted in the output being 'seedless grapes' no matter what SKU I entered. I even had nightmares about 'seedless grapes' last night. In summary, despite learning a lesson, we still need to be careful when applying what we learn, and we need to review it often to make sure we have really learned it.

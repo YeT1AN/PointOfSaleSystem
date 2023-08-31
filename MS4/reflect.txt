@@ -1,0 +1,9 @@
+/*
+Ye Tian
+ytian62@myseneca.ca
+142003227
+15 APR 2023
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+There are no difficulties in completing the MS4, only a few areas that need attention. For example, our outputs need to be matched up with the correct outputs, which requires extra care in the details. For the data, just use pointers as before and as long as the correct address is passed there won't be any problems.

@@ -1,0 +1,9 @@
+/*
+Ye Tian
+ytian62@myseneca.ca
+142003227
+6 APR 2023
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+Completing MS2 was much harder than MS1 because I didn't revise and use a lot of the content such as "file" and "struct". So I had to go back to my previous notes several times to find a way to solve the problem. To conclude, I still need to keep working on my studies, especially revision.

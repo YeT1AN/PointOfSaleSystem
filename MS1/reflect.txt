@@ -1,0 +1,13 @@
+/*
+Ye Tian
+ytian62@myseneca.ca
+142003227
+1 APR 2023
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+When I first opened the final project I was shocked at how much content there was. But after reading the content of the project I was no longer worried because it was essentially a combined version of everything we had learnt before.
+
+But I did encounter some minor problems when doing milestone 1, such as some syntax issues, but after referencing back to the previous notes they were no longer a problem.
+
+To be honest milestone 1 isn't that hard if you study hard in class, hopefully, the rest of the work won't be too hard either.
